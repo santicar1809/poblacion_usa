@@ -77,17 +77,6 @@ El archivo a enviar (submission.csv) debe tener exactamente 2 columnas:
 - Id: el valor contenido en el csv
 - income: contiene sus predicciones: (low, high)
 
-El archivo debe contener un encabezado y tener el siguiente formato:
-
-Id,Income
-6101,high
-25735,low
-31995,high
-26528,high
-16510,low
-Etc.
-Puede descargar un archivo de envío de ejemplo (sampleSubmission.csv) en la pestaña Datos.
-
 ## Exploratory Data Analysis
 
 En el mismo cuardenillo, debe dar respuesta (tipo Markdown) a cada una de las siguientes preguntas, su respuesta debe estar soportada por la respectiva implementación (tipo Code) de la estrategia EDA:
